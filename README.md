@@ -22,5 +22,13 @@ This repository showcases data-driven financial projects designed to bridge the 
 
 ---
 
+## 🍁 Project 3: Canada Retail Sales Performance Dashboard (Power BI)
+* **Objective:** Analyzed dynamic regional retail sales structures across Canadian provinces to track operational revenue trends and supply volumes.
+* **Key Deliverables:** Engineered a geospatial Filled Map visualization integrated with segment line charts tracking Total Sales (CAD) and regional unit distribution metrics.
+* **Skills:** Geospatial Data Mapping, Power BI Dashboard Design, Retail Analytics, Trend Identification.
+* **Files:** `Canada_Retail_Sales_Dashboard.pbix` & `Canada_Retail_Data.xlsx`
+
+---
+
 ## ✉️ Contact & Career Goals
 I am actively pursuing entry-level career opportunities in **Financial Analytics, Risk Advisory, and Audit Support** within Big 4 firms (KPMG, Deloitte, EY, PwC) and global MNCs.
